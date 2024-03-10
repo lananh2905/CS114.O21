@@ -18,7 +18,7 @@ Ths. Phạm Nguyễn Trường An | truonganpn@uit.edu.vn
 - Họ và tên : Trịnh Thị Lan Anh
 - MSSV : 22520083
 - Email : 22520083@gm.uit.edu.vn
-- Github : 
+- Github : https://github.com/lananh2905
 
 ### Bài tập thực hành hàng tuần
 [Tại đây](./)
