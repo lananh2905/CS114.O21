@@ -1,6 +1,6 @@
 # CS114.O21
 ## logo
-[UIT](https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_UIT_updated.jpg)
+[UIT](https://www.uit.edu.vn/sites/vi/files/images/Logos/Logo_UIT_In.jpg)
 ## Giới thiệu
 Xin chào.
 
