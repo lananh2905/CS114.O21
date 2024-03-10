@@ -4,7 +4,9 @@
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
   </a>
 </p>
-## CS114.O21
+
+## **CS114.O21 - MACHINE LEARNING - UIT**
+
 ### Giáo viên hướng dẫn
 
 Họ tên | Email
@@ -12,11 +14,13 @@ Họ tên | Email
 PGS.TS. Lê Đình Duy | duyld@uit.edu.vn
 Ths. Phạm Nguyễn Trường An | truonganpn@uit.edu.vn
 
-## GIỚI THIỆU BẢN THÂN
+### GIỚI THIỆU BẢN THÂN
 - Họ và tên : Trịnh Thị Lan Anh
 - MSSV : 22520083
 - Email : 22520083@gm.uit.edu.vn
 - Github : 
 
-## Bài tập thực hành hàng tuần
+### Bài tập thực hành hàng tuần
 [Tại đây](./)
+
+### Đồ án cuối kì
