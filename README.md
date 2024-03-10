@@ -21,6 +21,6 @@ Ths. Phạm Nguyễn Trường An | truonganpn@uit.edu.vn
 - Github : https://github.com/lananh2905
 
 ### Bài tập thực hành hàng tuần
-[Tại đây](./)
+[Tại đây](./Assignments/)
 
 ### Đồ án cuối kì
